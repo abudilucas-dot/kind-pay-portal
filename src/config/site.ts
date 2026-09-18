@@ -6,10 +6,10 @@ export const PRODUCT_NAME =
 export const PRODUCT_SHORT_NAME = "Domine Suas Dívidas";
 export const PRODUCT_PRICE = 19.9;
 export const CHECKOUT_URL = "https://pay.kiwify.com.br/YuhYpjO";
-export const SUPPORT_EMAIL = ""; // preencher com o e-mail real de suporte
-export const PRODUCER_NAME = ""; // preencher com o nome do produtor responsável
+export const SUPPORT_EMAIL = "abudilucas@gmail.com";
+export const PRODUCER_NAME = "Lucas Alexandria Abudi";
 export const REFUND_POLICY =
-  "As condições de reembolso seguem a política do produtor e da plataforma Kiwify. Confirme os prazos no checkout antes da compra.";
+  "Garantia de 7 dias: se o conteúdo não atender às suas expectativas, solicite o reembolso pelo e-mail de suporte dentro do prazo. O valor integral será devolvido conforme as regras da Kiwify.";
 
 export const PRIVACY_URL = "";
 export const TERMS_URL = "";
